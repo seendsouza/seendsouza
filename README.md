@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  🔭 I’m currently working on building the software for an autonomous race car
+-  🔭 I’m currently working on building the software for an autonomous race car.
 - 🌱 I’m currently learning functional programming, embedded systems, deep learning and vehicle dynamics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seendsouza/)
 - ⚡ Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
