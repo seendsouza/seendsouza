@@ -7,7 +7,7 @@
 
 Here's my [resume](https://storage.googleapis.com/seendsouza-bucket-0/sean-dsouza-resume.pdf), [Medium](https://medium.com/@seendsouza) and [personal website](https://seendsouza.github.io/)
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seendsouza)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seendsouza&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seendsouza/seendsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
