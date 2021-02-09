@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  🔭 I’m currently working on building the software for an autonomous race car.
-- 🌱 I’m currently learning functional programming, embedded systems, deep learning and vehicle dynamics.
+-  🔭 I’m currently working on VTuber software (openvtuber) and ROS 2 Client Library for D (rcld)
+- 🌱 I’m currently learning DevOps, ROS 2 and deep learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seendsouza/)
 - ⚡ Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
 
