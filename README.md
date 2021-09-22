@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  🔭 I’m currently working on VTuber software (openvtuber) and ROS 2 Client Library for D (rcld)
-- 🌱 I’m currently learning DevOps, ROS 2 and deep learning.
+-  🔭 I’m currently working on VTuber software ([openvtuber](https://github.com/virtuber/openvtuber)) and decentralized Mahjong ([fensandemajiang](https://github.com/fensandemajiang/fensandemajiang))
+- 🌱 I’m currently learning Ethereum, Solidity, Solana, Rust, ROS 2 and deep learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seendsouza/)
 - ⚡ Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
 
