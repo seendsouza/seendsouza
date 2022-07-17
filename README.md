@@ -8,11 +8,11 @@
 - :circus_tent: Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
 -  :page_facing_up:  [Resume](https://storage.googleapis.com/seendsouza-bucket-0/sean-dsouza-resume.pdf)
 
+[![Sean's GitHub stats](https://github-readme-stats-git-main-seendsouza.vercel.app/api/top-langs?username=seendsouza&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Sean's GitHub stats](https://github-readme-stats-git-main-seendsouza.vercel.app/api?username=seendsouza&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seendsouza&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=seendsouza&theme=radical&layout=compact)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=seendsouza&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seendsouza/seendsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
