@@ -1,13 +1,18 @@
-### Hi there 👋
+### 👋 Hi there, I'm [Sean D'Souza](https://seendsouza.github.io/)
 
--  🔭 I’m currently working on VTuber software ([openvtuber](https://github.com/virtuber/openvtuber)) and decentralized Mahjong ([fensandemajiang](https://github.com/fensandemajiang/fensandemajiang))
-- 🌱 I’m currently learning Ethereum, Solidity, Solana, Rust, ROS 2 and deep learning.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seendsouza/)
-- ⚡ Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seendsouza)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://seendsouza.github.io)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@seendsouza)
 
-Here's my [resume](https://storage.googleapis.com/seendsouza-bucket-0/sean-dsouza-resume.pdf), [Medium](https://medium.com/@seendsouza) and [personal website](https://seendsouza.github.io/)
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/seendsouza/)
+- :circus_tent: Fun fact: I interviewed pop singer Tyler Shaw at WE Day.
+-  :page_facing_up:  [Resume](https://storage.googleapis.com/seendsouza-bucket-0/sean-dsouza-resume.pdf)
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seendsouza&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seendsouza&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=seendsouza&theme=radical&layout=compact)
 <!--
 **seendsouza/seendsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
