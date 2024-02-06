@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Sean D'Souza](https://seendsouza.github.io/)
+### 👋 Hi there, I'm [Sean D'Souza](https://seendsouza.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seendsouza)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://seendsouza.github.io)
